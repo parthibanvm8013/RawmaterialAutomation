@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxwVakKPO/hntmoBDSNmEJ5MFs2UhKvHf/3fxDFL3/nPvNC6J4zKiAT+9KU+04scRhyxrIcm1r0vnrV8eI7SVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itdparthiban\\source\\repos\\Automation\\Automation\\Automation\\Automation.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itdparthiban\\.nuget\\packages\\microsoft.web.webview2\\1.0.2592.51\\microsoft.web.webview2.1.0.2592.51.nupkg.sha512"
+  ],
+  "logs": []
+}

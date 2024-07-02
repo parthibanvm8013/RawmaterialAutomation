@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmGenericMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmItemGenericMapping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmStockupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDI_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
